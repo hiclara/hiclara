@@ -1,4 +1,4 @@
-### Hey! <img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="25">
+### Hey! <img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="25"/> 
 
 I'm **Clara**, a student aspiring to become a software engineer.
 
